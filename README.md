@@ -9,10 +9,6 @@
 
 A **locally-executable** email intelligence and automation tool with powerful categorization, cleanup, and rule engines. All processing happens on your device for maximum privacy.
 
-<p align="center">
-  <img src="docs/dashboard.png" alt="Dashboard Preview" width="800">
-</p>
-
 ## ✨ Features
 
 ### 📊 Executive Dashboard
